@@ -1,0 +1,2 @@
+# compression-algos
+Sıkıştırma algoritmaları
